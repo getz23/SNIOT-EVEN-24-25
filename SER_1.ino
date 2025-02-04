@@ -2,7 +2,7 @@
 #include <Servo.h>
 
 // Replace with your WiFi credentials
-const char* ssid = "AndroidAP7BD5";
+const char* ssid = " ";
 const char* password = "";
 
 // Create a Servo object
